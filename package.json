@@ -1,0 +1,21 @@
+{
+  "name": "graphen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grapesjs": "^0.14.61",
+    "style.css": "^1.0.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.20.1"
+  }
+}
